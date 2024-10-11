@@ -1,0 +1,11 @@
+{
+  "name": "raichi-qzin",
+  "build": {
+    "dockerfile": "../Dockerfile"
+  },
+  "customizations": {},
+  // "workspaceFolder": "/workspace",
+  "postCreateCommand": "npm i",
+  "remoteUser": "root",
+  "forwardPorts": [3000]
+}

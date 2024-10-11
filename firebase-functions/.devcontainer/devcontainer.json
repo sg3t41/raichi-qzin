@@ -1,0 +1,9 @@
+{
+  "name": "functions-raichi-qzin",
+  "image": "andreysenov/firebase-tools",
+  "features": {
+    "git": {
+      "version": "latest"
+    }
+  }
+}
